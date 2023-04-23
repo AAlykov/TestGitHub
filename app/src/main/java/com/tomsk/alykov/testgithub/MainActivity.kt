@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
     Типа правильно код, но потом выясниться что пздц.
+    Еще пишем код
 
 }
